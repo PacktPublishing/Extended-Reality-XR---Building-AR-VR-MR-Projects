@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: d955a9c56ce2fb441bc5b5ce6c9e604d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ala2
+    100002: Alas
+    100004: Bone
+    100006: Bone.001
+    100008: Bone.002
+    100010: Bone_L
+    100012: Bone_L.001
+    100014: Bone_L.001_end
+    100016: Bone_L.002
+    100018: Bone_L.003
+    100020: Bone_L.003_end
+    100022: Bone_L.004
+    100024: Bone_L.004_end
+    100026: Bone_R
+    100028: Bone_R.001
+    100030: Bone_R.001_end
+    100032: Bone_R.002
+    100034: Bone_R.003
+    100036: Bone_R.003_end
+    100038: Bone_R.004
+    100040: Bone_R.004_end
+    100042: //RootNode
+    100044: Sphere.005
+    400000: Ala2
+    400002: Alas
+    400004: Bone
+    400006: Bone.001
+    400008: Bone.002
+    400010: Bone_L
+    400012: Bone_L.001
+    400014: Bone_L.001_end
+    400016: Bone_L.002
+    400018: Bone_L.003
+    400020: Bone_L.003_end
+    400022: Bone_L.004
+    400024: Bone_L.004_end
+    400026: Bone_R
+    400028: Bone_R.001
+    400030: Bone_R.001_end
+    400032: Bone_R.002
+    400034: Bone_R.003
+    400036: Bone_R.003_end
+    400038: Bone_R.004
+    400040: Bone_R.004_end
+    400042: //RootNode
+    400044: Sphere.005
+    2100000: Pluma2
+    2100002: Pluma
+    2100004: SnitchMat
+    2300000: Sphere.005
+    3300000: Sphere.005
+    4300000: Ala2
+    4300002: Sphere.005
+    7400000: Alas|Action
+    9500000: //RootNode
+    13700000: Ala2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Alas|Action
+      takeName: Alas|Action
+      firstFrame: 0
+      lastFrame: 3
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
