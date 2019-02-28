@@ -28,9 +28,11 @@ If you want to strategically move into a career in the VR/AR field and gain the 
 <LI>Microsoft Hololens</LI>
 
 ### Software Requirements
-<LI>Operating system: Windows for section 5 & 6 and macOS 10.13.4 or later for section 3. Sections 1, 2 & 4  can be completed over both Windows and macOS</LI>
+<LI>Operating system:</LI>
+ Windows for Section 5 & 6 and macOS 10.13.4 or later for Section 3. 
+ Sections 1, 2 & 4  can be completed over both Windows and macOS
 <LI>Browser: Safari, Chrome (latest)</LI>
-<LI>IDE - </LI>
+### IDE - 
 <LI>XCode 10+</LI>
 <LI>Visual Studio 2015 or higher</LI>
 <LI>Unity LTS version or higher</LI>
