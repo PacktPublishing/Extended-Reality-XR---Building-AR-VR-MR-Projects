@@ -19,27 +19,27 @@ This course is your chance to benefit from this opportunity by working with thes
 To fully benefit from the coverage included in this course, you will need:<br/>
 If you want to strategically move into a career in the VR/AR field and gain the skills to quickly and confidently create your own projects using the industry's leading tools, then this is the course you need! Are you keen to enter the field of Extended Reality and AR, VR, and MR? Some prior familiarity with AR/VR frameworks will be useful but not mandatory.
 ### Technical Requirements
-This course has the following software requirements:<br/>
-List of Devices For Testing the Applications:
-iPhone/iPad with iOS 11 or higher
-Android phone with version “Nougat" or higher 
-Google Cardboard or Google DayDream
-HTC Vive
-Microsoft Hololens
-Software Requirements
-Required
-Operating system: Windows for section 5 & 6 and macOS 10.13.4 or later for section 3. Sections 1, 2 & 4  can be completed over both windows and macOS
-Browser: Safari, Chrome latest
-IDE - 
-XCode 10+
-Visual Studio 2015 or higher
-Unity LTS version or higher
-HTC Vive Setup
-Windows 10 SDK
 
-Optional
-Hololens Emulator
-MRTK(Mixed Reality Toolkit)
+### List of Devices For Testing the Applications:
+<LI>iPhone/iPad with iOS 11 or higher</LI>
+<LI>Android phone with version “Nougat" or higher</LI> 
+<LI>Google Cardboard or Google DayDream</LI>
+<LI>HTC Vive</LI>
+<LI>Microsoft Hololens</LI>
+
+### Software Requirements
+<LI>Operating system: Windows for section 5 & 6 and macOS 10.13.4 or later for section 3. Sections 1, 2 & 4  can be completed over both Windows and macOS</LI>
+<LI>Browser: Safari, Chrome (latest)</LI>
+<LI>IDE - </LI>
+<LI>XCode 10+</LI>
+<LI>Visual Studio 2015 or higher</LI>
+<LI>Unity LTS version or higher</LI>
+<LI>HTC Vive Setup</LI>
+<LI>Windows 10 SDK</LI>
+
+<H2>Optional:</H2>
+<LI>Hololens Emulator</LI>
+<LI>MRTK(Mixed Reality Toolkit)</LI>
 
 
 ## Related Products
