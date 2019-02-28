@@ -18,6 +18,7 @@ This course is your chance to benefit from this opportunity by working with thes
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 If you want to strategically move into a career in the VR/AR field and gain the skills to quickly and confidently create your own projects using the industry's leading tools, then this is the course you need! Are you keen to enter the field of Extended Reality and AR, VR, and MR? Some prior familiarity with AR/VR frameworks will be useful but not mandatory.
+
 ### Technical Requirements
 
 ### List of Devices For Testing the Applications:
@@ -32,8 +33,7 @@ If you want to strategically move into a career in the VR/AR field and gain the 
  Windows for Section 5 & 6 and macOS 10.13.4 or later for Section 3. 
  Sections 1, 2 & 4  can be completed over both Windows and macOS
 <LI>Browser: Safari, Chrome (latest)</LI>
-### IDE 
-<LI>XCode 10+</LI>
+<LI>Xcode 10+</LI>
 <LI>Visual Studio 2015 or higher</LI>
 <LI>Unity LTS version or higher</LI>
 <LI>HTC Vive Setup</LI>
